@@ -54,4 +54,4 @@ It applies data-driven decision-making techniques to optimize **pricing**, **inv
 
 ## 💬 Contact
 📧 23f2001550@ds.study.iitm.ac.in  
-👨‍💼 LinkedIn : www.linkedin.com/in/gaurav-jha-060ba7382
+👨‍💼 LinkedIn : www.linkedin.com/in/gaurav-jha-060ba7382/
